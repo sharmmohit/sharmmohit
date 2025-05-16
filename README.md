@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sharmmohit&label=Profile%20views&color=0e75b6&style=flat" alt="sharmmohit" /> </p>
 
-- 💬 Ask me about *React.js*
+- 💬 Ask me about React.js,Large Language Models And Langchain 
 
 - 📫 How to reach me *sharmmohit29@gmail.com*
 
